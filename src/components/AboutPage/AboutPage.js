@@ -46,14 +46,14 @@ const AboutPage = () => {
 								</li>
 								<li className="about-page__list-item">
 									Someone with a good grasp of engineering concepts, data
-									structures, algorithms and software development Skills
+									structures, algorithms and software development Skills.
 								</li>
 								<li className="about-page__list-item">
-									A Bachelor’s Degree (First Class Honours) holder in Information Technology
+									A Bachelor’s Degree ( Distinction) holder in Information Technology (GPA:9.08) .
 								</li>
 
 								<li className="about-page__list-item">
-									Currently Looking for Internship / Full Time Software Engineer Role
+									Currently Looking for Internship / Full Time Software Engineer Role.
 					
 								
 								</li>
@@ -79,7 +79,7 @@ const AboutPage = () => {
 								>
 									<CodeBracesIcon className="about-page__services-icon" />
 									<span className="about-page__services-text">
-										Competetive Programming
+									Competitive Programming
 									</span>
 								</a>
 								<a

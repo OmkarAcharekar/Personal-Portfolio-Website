@@ -87,16 +87,7 @@ const LandingPage = () => {
 							<EmailIcon className="social__icon" />
 						</a>
 					</li>
-					<li className="social__item">
-						<a
-							href={data.social.twitter}
-							className="social__link"
-							target="_blank"
-							aria-label="Twitter"
-						>
-							<TwitterIcon className="social__icon" />
-						</a>
-					</li>
+					
 					
 				</ul>
 			</div>

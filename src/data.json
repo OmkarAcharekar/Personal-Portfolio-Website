@@ -10,7 +10,7 @@
             "degree": "BSc. in Information Technology",
             "school": "University of Mumbai, India.",
             "timeline": {"from": "July 2018", "to": "May 2021"},
-            "summary": "• Graduated with First Class Honours        CGPA:9.08 \n\n• Relevant Coursework: Software Engineering , Object Oriented Programming, Computer Organization & Microprocessor, Algorithms and Data Structures, Systems Programming, Advanced Web Programming , Data Science, Database Management Systems, Computer Networks, Business Intelligence, Numerical Methods & Statistical Techniques, Artificial Intelligence."
+            "summary": "• Graduated with Distinction        CGPA:9.08 \n\n• Relevant Coursework: Software Engineering , Object Oriented Programming, Computer Organization & Microprocessor, Algorithms and Data Structures, Systems Programming, Advanced Web Programming , Data Science, Database Management Systems, Computer Networks, Business Intelligence, Numerical Methods & Statistical Techniques, Artificial Intelligence."
         }
     ], 
     "work":[
@@ -42,7 +42,7 @@
     ],
     "projects": {"anozie-stores":{
         "name": "ChatValve",
-        "description": "ChatValue is a full stack  Real Time End-To-End Encrypted Messaging application built using React Native and Aws Amplify .       Key Features : Encryption and Security,Registration page and contact integration,Offers both private and group chats,View Online Status , Messages : Audio Message,Text Messages ,Images",
+        "description": "ChatValve is a Real Time End-To-End Encrypted Messaging application. It is full stack project built using React Native and Aws Amplify .                                                                                                                Key Features : Encryption and Security,Registration page and contact integration,Offers both private and group chats,View Online Status , Messages : Audio Message,Text Messages ,Images.",
         "image_url": "https://raw.githubusercontent.com/OmkarAcharekar/Netflix_Clone/master/assets/images/2021-12-08%20(6).png",
         "device_image_url": "https://raw.githubusercontent.com/OmkarAcharekar/ChatValve/master/assets/images/bubble-chat.png",
         "gif_url": "",
@@ -51,7 +51,7 @@
     },
     "whatsapp-web-clone":{
         "name": "Netflix Clone",
-        "description": "Recreated the current Netflix Application. Best part? Added the backend functionality as well.Hoping to add more features in future",
+        "description": "Recreated the current Netflix Application. Best part? Added the backend functionality as well.Hoping to add more features in future.",
         "image_url": "https://raw.githubusercontent.com/OmkarAcharekar/ChatValve/master/assets/images/2021-12-08%20(8).png",
         "gif_url": "https://raw.githubusercontent.com/OmkarAcharekar/Netflix_Clone/master/assets/images/netflixfinal.png",
         "live_url": null,
@@ -68,7 +68,7 @@
     },
     "gff":{
         "name": "Search Engine",
-        "description": "Project Mimics the Functionality of a Web Browsers Search Engine . Implemented Splay Tree data structure , to access recent Data Efficiently. Standard Implementation using structures, nodes and classes have been used to implement this project.",
+        "description": "Project Mimics the Functionality of a Web Browsers Search Engine. Implemented Splay Tree data structure , to access recent Data Efficiently. Standard Implementation using structures, nodes and classes have been used to implement this project.",
         "image_url": "https://raw.githubusercontent.com/OmkarAcharekar/ChatValve/master/assets/images/2021-12-08%20(15).png",
         "device_image_url": "https://raw.githubusercontent.com/OmkarAcharekar/ChatValve/master/assets/images/2021-12-08%20(15).png",
         "gif_url": "",
@@ -77,7 +77,7 @@
     },
     "portfolio-v2":{
         "name": "Portfolio Website",
-        "description": "Designed a Beautiful lightweight accessible and performant personal portfolio website using Html,Css ,JavaScript and React js.It doubles as some sort of digital resum´",
+        "description": "Designed a Beautiful lightweight accessible and performant personal portfolio website using Html,Css ,JavaScript and React js.It doubles as some sort of Digital resume.",
         "image_url": "https://raw.githubusercontent.com/OmkarAcharekar/Netflix_Clone/master/assets/images/2021-12-08%20(4).png",
         "device_image_url": "https://raw.githubusercontent.com/OmkarAcharekar/Netflix_Clone/master/assets/images/2021-12-08%20(4).png",
         "gif_url": "",
@@ -86,7 +86,7 @@
     },
     "abeg-app-clone":{
         "name": " Rock Paper Scissors",
-        "description": "This is a project example of the game Rock Paper Scissors built with Html, Css, Javacript",
+        "description": "This is a project example of the game Rock Paper Scissors built with Html, Css, Javacript.",
         "image_url": "https://tse1.mm.bing.net/th?id=OIP.I0WFFklvHzzmSA2EYDPjlgHaDj&pid=Api&P=0&w=358&h=173",
         "gif_url": "https://raw.githubusercontent.com/OmkarAcharekar/ChatValve/master/assets/images/2021-12-08%20(26).png",
         "live_url": "https://practical-goldstine-0e6210.netlify.app/index1.html",
@@ -94,7 +94,7 @@
     },
     "pasteit":{
         "name": "TicTacToe",
-        "description": "This is a project example of the game TicTacToe built with React Native.Hoping to add Multiplayer Functionality in future",
+        "description": "This is a project example of the game TicTacToe built with React Native. Hoping to add Multiplayer Functionality in Future.",
         "image_url": "https://raw.githubusercontent.com/OmkarAcharekar/ChatValve/master/assets/images/2021-12-08%20(22).png",
         "device_image_url": "https://raw.githubusercontent.com/OmkarAcharekar/ChatValve/master/assets/images/2021-12-08%20(22).png",
         "gif_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Tic-tac-toe-animated.gif",
