@@ -2,9 +2,16 @@ import React from "react";
 import "./AboutPage.css";
 import { Link } from "react-router-dom";
 import Lottie from "react-lottie";
+import {
+	EmailIcon,
+	GithubIcon,
+	LinkedinIcon,
+	TwitterIcon,
+	InstagramIcon,
+} from "../../images/icons/icons";
 import animationData from "../../images/lotties/female.json";
 import { HTMLIcon, CodeBracesIcon, WebIcon } from "../../images/icons/icons";
-
+import data from "../../data.json";
 const AboutPage = () => {
 	return (
 		<section className="about-page">
@@ -62,7 +69,7 @@ const AboutPage = () => {
 								>
 									<HTMLIcon className="about-page__services-icon" />
 									<span className="about-page__services-text">
-										Front-End Mobile Development
+										Front-End Development
 									</span>
 								</a>
 								<a
@@ -72,7 +79,7 @@ const AboutPage = () => {
 								>
 									<CodeBracesIcon className="about-page__services-icon" />
 									<span className="about-page__services-text">
-										Back-End Development
+										Competetive Programming
 									</span>
 								</a>
 								<a
@@ -90,10 +97,13 @@ const AboutPage = () => {
 
 						<p className="about-page__text about-page__text--restricted">
 							I'm super excited you're here. Feel free to{" "}
-							<Link to="/contact" className="about-page__link">
-								reach out to me{" "}
-							</Link>
-							with any opportunities you have or to just say hello!
+							<a
+							href={"mailto:" + data.social.email}
+						>
+							<EmailIcon className="social__icon" />
+						</a>
+							
+								reach out to me with any opportunities you have.
 						</p>
 					</div>
 				</div>{" "}

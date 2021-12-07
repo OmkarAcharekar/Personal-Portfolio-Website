@@ -39,7 +39,7 @@ const navLinks = [
 		icon: PortfolioIcon,
 		iconWidth: 20,
 	},
-	{ label: "Contact", path: "/contact", icon: ContactIcon, iconWidth: 25 },
+	//{ label: "Contact", path: "/contact", icon: ContactIcon, iconWidth: 25 },
 ];
 
 function App() {

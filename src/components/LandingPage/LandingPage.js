@@ -16,7 +16,7 @@ const navLinks = [
 	{ label: "About", path: "/about" },
 	{ label: "Resume", path: "/resume" },
 	{ label: "Portfolio", path: "/portfolio" },
-	{ label: "Contact", path: "/contact" },
+	
 ];
 
 const LandingPage = () => {
