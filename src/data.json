@@ -80,7 +80,7 @@
             "github_url": "https://github.com/OmkarAcharekar/AirSense"
         },
         "gff": {
-            "name": "Search Engine",
+            "name": "Search Engine Simulation",
             "description": "Project Mimics the Functionality of a Web Browsers Search Engine. Implemented Splay Tree data structure , to access recent Data Efficiently. Standard Implementation using structures, nodes and classes have been used to implement this project.",
             "image_url": "https://raw.githubusercontent.com/OmkarAcharekar/ChatValve/master/assets/images/2021-12-08%20(15).png",
             "device_image_url": "https://raw.githubusercontent.com/OmkarAcharekar/ChatValve/master/assets/images/2021-12-08%20(15).png",
