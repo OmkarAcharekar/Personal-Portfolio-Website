@@ -15,7 +15,7 @@ import cpp from "../../images/tech/cpp.svg";
 import java from "../../images/tech/java.svg";
 import tf from "../../images/tech/tff.svg";
 import docker from "../../images/tech/docker.png";
-import sass from "../../images/tech/docker.png";
+import sass from "../../images/tech/sass.png";
 import golang from "../../images/tech/golang.png";
 import figma from "../../images/tech/figma.png";
 import jest from "../../images/tech/jest.png";
