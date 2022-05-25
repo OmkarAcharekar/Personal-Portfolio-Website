@@ -17,7 +17,7 @@ const AboutPage = () => {
 		<section className="about-page">
 			<header className="about-page__header">
 				<h1 className="about-page__heading about-page__heading--main">
-				    Omkar Acharekar
+					Omkar Acharekar
 				</h1>
 			</header>
 			<div className="about-page__body">
@@ -42,7 +42,7 @@ const AboutPage = () => {
 							<ul className="about-page__list">
 								<li className="about-page__list-item">
 									Aspiring Software Engineer having hands on experience developing
-									full-stack Mobile Applications and Machine Learning Techniques.
+									full-stack Web Applications and Machine Learning Techniques.
 								</li>
 								<li className="about-page__list-item">
 									Someone with a good grasp of engineering concepts, data
@@ -52,11 +52,7 @@ const AboutPage = () => {
 									A Bachelor’s Degree ( Distinction) holder in Information Technology (GPA:9.08) .
 								</li>
 
-								<li className="about-page__list-item">
-									Currently Looking for Internship / Full Time Software Engineer Role.
-					
-								
-								</li>
+
 							</ul>
 						</p>
 						<div className="about-page__text">
@@ -79,7 +75,7 @@ const AboutPage = () => {
 								>
 									<CodeBracesIcon className="about-page__services-icon" />
 									<span className="about-page__services-text">
-									Competitive Programming
+										Competitive Programming
 									</span>
 								</a>
 								<a
@@ -98,12 +94,12 @@ const AboutPage = () => {
 						<p className="about-page__text about-page__text--restricted">
 							I'm super excited you're here. Feel free to{" "}
 							<a
-							href={"mailto:" + data.social.email}
-						>
-							<EmailIcon className="social__icon" />
-						</a>
-							
-								reach out to me with any opportunities you have.
+								href={"mailto:" + data.social.email}
+							>
+								<EmailIcon className="social__icon" />
+							</a>
+
+							reach out to me with any opportunities you have.
 						</p>
 					</div>
 				</div>{" "}

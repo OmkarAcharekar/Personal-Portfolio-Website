@@ -83,7 +83,8 @@
     margin-top: 3px;
 }
 
-.work__summary, .education__summary {
+.work__summary,
+.education__summary {
     white-space: pre-wrap;
     line-height: 24px;
     margin-top: 10px;
@@ -162,15 +163,20 @@
     .resume-page__content {
         flex-direction: column;
     }
-    .resume-page__content-left, .resume-page__content-right {
+
+    .resume-page__content-left,
+    .resume-page__content-right {
         width: 100%;
     }
+
     .education-wrapper {
         margin-left: 30px;
     }
+
     .education-wrapper::after {
         left: 0;
     }
+
     .education__summary::after {
         left: -37px;
     }
@@ -180,18 +186,24 @@
     .resume-page {
         padding: 40px 20px;
     }
+
     .resume-page__heading {
         font-size: 1.8em;
     }
+
     .resume-page__heading--main {
         font-size: 2.3em;
     }
+
     .resume-page__subheading {
         font-size: 1.1em;
     }
-    .education__degree, .work__role {
+
+    .education__degree,
+    .work__role {
         font-size: 1.1em;
     }
+
     .work__timeline {
         font-size: 1em;
     }

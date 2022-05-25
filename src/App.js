@@ -26,7 +26,7 @@ const banners = [
 
 	"https://mir-s3-cdn-cf.behance.net/project_modules/disp/d0ac0526231871.563534b8a3c7e.jpg",
 	"https://raw.githubusercontent.com/nisarhassan12/portfolio/master/src/img/header.jpg"
-	
+
 ];
 
 const navLinks = [
@@ -109,11 +109,11 @@ function App() {
 	);
 
 	return (
-		
+
 		<div
 			className="app"
 			style={{ backgroundImage: `url('${banners[banner]}')` }}
-			
+
 		>
 			<div className="app__overlay"></div>
 			<header className="app__header">
@@ -122,7 +122,7 @@ function App() {
 						data={logo}
 						className="app__logo"
 						type="image/svg+xml"
-						aria-label="Karen Okonkwo"
+
 						tabIndex="-1"
 						style={{ pointerEvents: "none" }}
 					/>
@@ -135,9 +135,8 @@ function App() {
 					<MenuIcon className="app__menu-icon" height={60} stroke="white" />
 				</button>
 				<nav
-					className={`app__nav ${showNav ? "show" : ""} ${
-						isHome ? "app__nav--home" : ""
-					}`}
+					className={`app__nav ${showNav ? "show" : ""} ${isHome ? "app__nav--home" : ""
+						}`}
 				>
 					<button
 						className="app__nav-close"
