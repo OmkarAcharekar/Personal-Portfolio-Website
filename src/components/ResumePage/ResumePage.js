@@ -138,7 +138,7 @@ const ResumePage = () => {
 						<img
 							src={docker}
 							alt="Python"
-							title="Python"
+							title="Docker"
 							className="tech__logo"
 						/>
 						<img
