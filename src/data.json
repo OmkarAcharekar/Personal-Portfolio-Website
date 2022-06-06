@@ -21,7 +21,7 @@
             "location": "Remote",
             "company": "Pivony Inc",
             "timeline": {
-                "from": "Sept 2021",
+                "from": "Mar 2021",
                 "to": "Current"
             }
         },
@@ -34,24 +34,8 @@
                 "to": "April 2022"
             }
         },
-        {
-            "role": "Software Engineer Intern",
-            "location": "Remote",
-            "company": "Oracle",
-            "timeline": {
-                "from": "Jan 2021",
-                "to": "July 2021"
-            }
-        },
-        {
-            "role": "Software Engineer Intern",
-            "location": "Bangalore,India",
-            "company": "Walmart",
-            "timeline": {
-                "from": "June 2020",
-                "to": "July 2020"
-            }
-        }
+        
+   
     ],
     "projects": {
         "anozie-stores": {
