@@ -26,16 +26,14 @@
             }
         },
         {
-            "role": "Fellow",
+            "role": "Prep Fellow",
             "location": "Remote",
             "company": "Major League Hacking",
             "timeline": {
-                "from": "Mar 2022",
+                "from": "March 2022",
                 "to": "April 2022"
             }
-        },
-        
-   
+        }
     ],
     "projects": {
         "anozie-stores": {

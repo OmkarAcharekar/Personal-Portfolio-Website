@@ -65,7 +65,7 @@ const AboutPage = () => {
 								>
 									<HTMLIcon className="about-page__services-icon" />
 									<span className="about-page__services-text">
-										Front-End Development
+										Full Stack Web Development
 									</span>
 								</a>
 								<a
