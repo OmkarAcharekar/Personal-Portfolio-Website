@@ -15,13 +15,14 @@ import cpp from "../../images/tech/cpp.svg";
 import java from "../../images/tech/java.svg";
 import tf from "../../images/tech/tff.svg";
 import docker from "../../images/tech/docker.png";
-import sass from "../../images/tech/sass.png";
+
 import golang from "../../images/tech/golang.png";
 import figma from "../../images/tech/figma.png";
 import jest from "../../images/tech/jest.png";
 import mongodb from "../../images/tech/mongo.png";
 import next from "../../images/tech/next.png";
 import redux from "../../images/tech/redux.png";
+import rust from "../../images/tech/rust.png";
 
 const ResumePage = () => {
 	return (
@@ -127,7 +128,7 @@ const ResumePage = () => {
 						<img src={figma} alt="Git" title="Figma" className="tech__logo" />
 						<img src={jest} alt="Git" title="Jest" className="tech__logo" />
 						<img src={redux} alt="Git" title="Redux" className="tech__logo" />
-						<img src={sass} alt="CSS3" title="Sass" className="tech__logo" />
+						<img src={rust} alt="CSS3" title="Rust" className="tech__logo" />
 						<img src={golang} alt="Git" title="Golang" className="tech__logo" />
 						<img
 							src={python}
@@ -153,7 +154,7 @@ const ResumePage = () => {
 							title="NodeJS"
 							className="tech__logo"
 						/>
-						<img src={sql} alt="SQL" title="SQL" className="tech__logo" />
+						
 
 
 						<img src={mongodb} alt="Git" title="Mongodb" className="tech__logo" />
